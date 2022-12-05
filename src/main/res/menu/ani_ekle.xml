@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/ani_ekle_item" android:title="Kendin İçin Bir Anı Ekle"></item>
+</menu>
